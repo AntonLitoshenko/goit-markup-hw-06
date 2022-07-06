@@ -442,7 +442,7 @@ img {
 .footer-icon {
   fill: white;
 }
-.sub-wrap {
+.footer-form {
   display: flex;
 }
 
@@ -454,6 +454,7 @@ img {
   padding-left: 16px;
   outline: none;
   background-color: transparent;
+  color: #ffffff;
 }
 .send-btn-sub {
   font-family: inherit;
